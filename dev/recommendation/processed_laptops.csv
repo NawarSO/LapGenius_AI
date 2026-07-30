@@ -1,0 +1,331 @@
+brand,new,price,cpu_brand,cpu_tier,cpu_model,cpu_suffix,gpu_brand,gpu_model,ram_size,ram_type,storage_size,storage_type
+ASUS,1,335,intel,i3,305,unknown,intel,uhd,8,ddr4,256,ssd
+ASUS,1,360,intel,i3,1315,u,intel,uhd,8,ddr4,512,ssd
+ASUS,1,355,intel,i3,1315,u,intel,uhd,8,ddr5,256,ssd
+ASUS,1,465,amd,ryzen 7,7445,hs,nvidia,rtx4050,16,ddr5,512,ssd
+ASUS,1,465,intel,i5,1335,u,intel,uhd,8,ddr4,512,ssd
+ASUS,1,775,snapdragon,x plus,42100,unknown,intel,uhd,16,ddr5,512,ssd
+ASUS,1,630,intel,i7,1355,u,intel,uhd,16,ddr4,1000,ssd
+ASUS,1,685,amd,ryzen 7,7435,hs,nvidia,rtx3050,8,ddr5,512,ssd
+ASUS,1,795,intel,core 5,210,h,nvidia,rtx3050,16,ddr5,512,ssd
+ASUS,1,910,intel,core 5,210,h,nvidia,rtx4050,16,ddr5,512,ssd
+ASUS,1,855,amd,ryzen 7,7445,hs,nvidia,rtx4050,16,ddr5,512,ssd
+ASUS,1,975,intel,i7,13620,h,nvidia,rtx4050,16,ddr5,512,ssd
+ASUS,1,1200,intel,i7,14650,hx,nvidia,rtx5050,16,ddr5,512,ssd
+ASUS,1,1420,intel,i7,14650,hx,nvidia,rtx5060,32,ddr5,1000,ssd
+ASUS,1,1400,intel,i7,14650,hx,nvidia,rtx5060,16,ddr5,1000,ssd
+ASUS,1,1550,amd,ryzen 9,720,unknown,nvidia,rtx5070,32,ddr5,1000,ssd
+ASUS,1,1620,intel,i7,14650,hx,nvidia,rtx5070,16,ddr5,1000,ssd
+ASUS,1,1585,amd,ryzen 9,9955,hx,nvidia,rtx5060,16,ddr5,1000,ssd
+ASUS,1,1900,intel,ultra 9,275,ultra,nvidia,rtx5060,32,ddr5,1000,ssd
+ASUS,1,1775,amd,ryzen 9,8940,hx,nvidia,rtx5070,16,ddr5,1000,ssd
+ASUS,1,1770,intel,i9,14900,hx,nvidia,rtx4060,16,ddr5,512,ssd
+ASUS,1,1495,amd,ryzen 9,8940,hx,nvidia,rtx5060,16,ddr6,1000,ssd
+ASUS,1,2460,intel,ultra 9,275,ultra,nvidia,rtx5070,32,ddr5,2000,ssd
+Dell,1,360,intel,i3,1315,u,intel,uhd,8,ddr4,512,ssd
+Dell,1,445,intel,i5,0,unknown,intel,uhd,8,ddr4,512,ssd
+hp,1,340,intel,i3,305,unknown,intel,uhd,8,ddr4,256,ssd
+hp,1,530,intel,i5,1334,u,nvidia,mx570,8,unknown,512,ssd
+hp,1,530,intel,core 5,120,u,intel,uhd,8,ddr5,512,ssd
+hp,1,590,intel,i5,13420,h,nvidia,rtx3050,8,unknown,512,ssd
+hp,1,640,intel,core 7,150,u,intel,uhd,16,ddr5,512,ssd
+hp,1,695,intel,i5,13420,h,nvidia,rtx4050,16,ddr4,512,ssd
+hp,1,720,amd,ryzen 7,7445,hs,nvidia,rtx4050,16,ddr5,512,ssd
+Lenovo,1,250,celeron,celeron,4500,unknown,intel,uhd,8,ddr4,256,ssd
+Lenovo,1,320,intel,i3,305,unknown,intel,uhd,4,ddr4,256,ssd
+Lenovo,1,370,amd,ryzen 5,7520,u,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,350,intel,i3,1315,u,intel,uhd,8,ddr4,256,ssd
+Lenovo,1,450,intel,i5,13420,h,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,460,intel,i5,13420,h,intel,uhd,16,ddr4,512,ssd
+Lenovo,1,600,intel,i7,13420,h,intel,uhd,16,ddr4,512,ssd
+Lenovo,1,685,amd,ryzen 5,7235,hs,nvidia,rtx4050,12,ddr5,512,ssd
+Lenovo,1,715,intel,i5,12450,hx,nvidia,rtx3050,24,ddr5,512,ssd
+Lenovo,1,775,intel,i5,13450,hx,nvidia,rtx3050,24,ddr4,512,ssd
+Lenovo,1,835,intel,i5,13450,hx,nvidia,rtx5050,16,ddr5,512,ssd
+Lenovo,1,805,intel,i7,12650,hx,nvidia,rtx4050,16,unknown,512,ssd
+Lenovo,1,930,intel,i7,13450,hx,nvidia,rtx4050,16,ddr4,512,ssd
+Lenovo,1,845,intel,i7,13650,hx,nvidia,rtx3050,16,ddr5,512,ssd
+Lenovo,1,975,intel,i7,13650,hx,nvidia,rtx4050,24,ddr5,512,ssd
+Lenovo,1,975,intel,i7,13650,hx,nvidia,rtx4050,24,ddr5,512,ssd
+Lenovo,1,1095,intel,i7,13700,hx,nvidia,rtx5050,24,ddr5,1000,ssd
+Lenovo,1,1075,intel,i7,13650,hx,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,935,amd,ryzen 7,250,unknown,nvidia,rtx5050,16,ddr6,512,ssd
+Lenovo,1,1250,amd,ryzen 7,260,unknown,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,1355,intel,i7,14700,hx,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,1600,intel,ultra 9,275,ultra,nvidia,rtx5060,32,ddr5,1000,ssd
+Lenovo,1,1950,intel,i9,14900,hx,nvidia,rtx5070,32,ddr5,1000,ssd
+ACER,1,710,intel,i5,13500,h,nvidia,rtx5050,16,ddr4,512,ssd
+ACER,1,1175,intel,i9,13900,h,nvidia,rtx5060,16,ddr5,512,ssd
+MSI,1,1375,intel,i7,14650,hx,nvidia,rtx5070,16,ddr5,512,ssd
+MSI,1,610,intel,i5,13420,h,nvidia,rtx2050,16,ddr5,512,ssd
+MSI,1,770,intel,i7,12420,h,nvidia,rtx3050,16,ddr6,512,ssd
+Dell,1,625,intel,i7,1355,u,intel,irisxe,8,ddr4,512,ssd
+Lenovo,1,1090,amd,ryzen 7,250,unknown,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,475,intel,i5,13420,h,intel,irisxe,8,ddr4,512,ssd
+Lenovo,1,405,amd,ryzen 5,7520,u,amd,610m,8,ddr5,256,ssd
+hp,1,1150,intel,i7,1165,g7,nvidia,mx450,16,ddr4,1000,hdd
+hp,1,1175,intel,ultra 7,256,ultra,intel,140v,16,ddr5,1000,ssd
+hp,1,725,intel,ultra 7,255,ultra,intel,unknown,16,ddr5,1000,ssd
+hp,1,1475,intel,i7,14650,hx,nvidia,rtx5060,32,ddr5,1000,ssd
+hp,1,405,intel,i3,1315,u,intel,unknown,8,ddr4,256,ssd
+Lenovo,1,1100,intel,i7,13650,hx,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,1150,intel,i7,13650,hx,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,1720,intel,ultra 9,275,ultra,nvidia,rtx5060,32,ddr5,1000,ssd
+ASUS,1,1420,intel,i7,14650,hx,nvidia,rtx5070,16,ddr5,1000,ssd
+ASUS,1,1800,intel,ultra 9,275,ultra,nvidia,rtx5060,32,ddr5,1000,ssd
+ASUS,1,1000,intel,i5,13450,hx,nvidia,rtx5050,16,ddr5,512,ssd
+hp,1,610,intel,i5,13420,h,nvidia,rtx3050,8,ddr4,512,ssd
+Lenovo,1,1200,intel,i7,14700,hx,nvidia,rtx5050,16,ddr5,1000,ssd
+Lenovo,1,490,intel,i5,13420,h,intel,uhd,8,ddr5,512,ssd
+Lenovo,1,750,intel,i5,13420,h,intel,uhd,8,ddr5,512,ssd
+Lenovo,1,900,intel,ultra 5,225,ultra,intel,unknown,8,ddr5,512,ssd
+Lenovo,1,500,intel,i3,1315,u,intel,uhd,8,ddr5,512,ssd
+Lenovo,1,690,intel,ultra 5,226,ultra,intel,arc,16,ddr5,512,ssd
+Lenovo,1,375,amd,ryzen 5,7520,u,amd,610m,8,ddr5,256,ssd
+Lenovo,1,495,intel,i5,13420,h,intel,uhd,16,ddr5,512,ssd
+hp,1,575,intel,core 5,120,u,intel,unknown,8,ddr5,512,ssd
+hp,1,700,intel,core 7,150,u,intel,unknown,16,ddr5,512,ssd
+hp,1,1085,intel,ultra 7,256,ultra,intel,140v,16,ddr5,1000,ssd
+MSI,1,835,intel,i7,13620,h,nvidia,rtx3050,16,ddr4,512,ssd
+MSI,1,1000,intel,i7,11800,h,nvidia,rtx3070,16,ddr4,512,ssd
+MSI,1,605,intel,i5,10500,h,nvidia,rtx3060,8,ddr4,512,ssd
+ACER,1,1925,intel,ultra 9,275,ultra,nvidia,rtx5070,32,ddr5,1000,ssd
+ACER,1,815,intel,i7,13620,h,nvidia,rtx4050,16,ddr5,512,ssd
+Dell,1,1275,intel,core 7,240,h,nvidia,rtx5050,16,ddr5,1000,ssd
+Dell,1,700,intel,i7,1355,u,intel,irisxe,16,ddr4,1000,ssd
+Dell,1,475,intel,i5,1334,u,intel,irisxe,8,ddr4,512,ssd
+Dell,1,450,intel,i5,1334,u,intel,irisxe,8,ddr4,512,ssd
+hp,1,355,intel,i3,305,unknown,intel,uhd,8,ddr4,256,ssd
+hp,1,340,intel,i3,1315,u,intel,uhd,4,ddr4,256,ssd
+hp,1,310,intel,n100,100,unknown,intel,uhd,4,ddr5,0,ssd
+hp,1,275,intel,celeron,4500,unknown,intel,uhd,4,ddr4,256,ssd
+ASUS,1,1075,intel,i7,13620,h,nvidia,rtx4050,16,ddr5,512,ssd
+ASUS,1,1370,intel,i5,13450,hx,nvidia,rtx5060,16,ddr5,512,ssd
+ASUS,1,750,amd,ryzen 7,7445,hs,nvidia,rtx3050,8,ddr5,512,ssd
+ASUS,1,750,snapdragon,x plus,100,unknown,unknown,unknown,16,ddr5,512,ssd
+Lenovo,1,1150,intel,i7,13650,hx,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,860,intel,i5,13450,hx,nvidia,rtx5050,16,ddr5,512,ssd
+Lenovo,1,690,intel,i7,13620,h,intel,uhd,16,ddr5,512,ssd
+Lenovo,1,500,intel,i5,13420,h,intel,uhd,16,ddr5,512,ssd
+ASUS,1,3350,intel,ultra 9,185,ultra,nvidia,rtx4090,32,ddr5,2000,ssd
+ASUS,1,1525,amd,ryzen 9,8945,hs,nvidia,rtx4060,16,ddr5,512,ssd
+ASUS,1,1640,amd,ryzen 9,8945,hs,nvidia,rtx4060,16,ddr5,1000,ssd
+ASUS,1,1975,intel,ultra 9,185,ultra,nvidia,rtx4070,0,unknown,1000,ssd
+ASUS,1,1475,intel,i7,13620,h,nvidia,rtx4070,16,ddr4,512,ssd
+ASUS,1,3875,intel,ultra 9,275,ultra,nvidia,rtx5080,32,ddr5,2000,ssd
+ASUS,1,2025,amd,ryzen 9,9955,hx,nvidia,rtx5070,16,ddr5,1000,ssd
+ASUS,1,1685,intel,i9,14900,hx,nvidia,rtx4060,16,ddr5,1000,ssd
+ASUS,1,1710,intel,i7,13650,hx,nvidia,rtx4070,16,ddr5,512,ssd
+ASUS,1,1635,amd,ryzen 9,6900,hx,nvidia,rtx3080,16,ddr5,1000,ssd
+ASUS,1,1400,intel,i7,14650,hx,nvidia,rtx5060,32,ddr5,1000,ssd
+ASUS,1,1145,amd,ryzen 7,7435,hs,nvidia,rtx4060,16,ddr5,512,ssd
+ASUS,1,875,amd,ryzen 7,7435,hs,nvidia,rtx4050,16,ddr5,512,ssd
+ASUS,1,925,amd,ryzen 7,7445,hs,nvidia,rtx4050,16,ddr5,512,ssd
+ASUS,1,780,amd,ryzen 7,7445,hs,nvidia,rtx3050,16,ddr5,512,ssd
+ASUS,1,730,amd,ryzen 7,7435,hs,nvidia,rtx3050,16,ddr5,512,ssd
+ASUS,1,1120,intel,core 7,240,h,nvidia,rtx5050,16,ddr5,1000,ssd
+ASUS,1,1115,intel,i9,13900,h,nvidia,rtx4050,16,ddr4,1000,ssd
+ASUS,1,850,intel,i9,13900,h,intel,irisxe,16,ddr4,512,ssd
+ASUS,1,600,intel,i7,1355,u,intel,irisxe,16,ddr4,512,ssd
+ASUS,1,550,intel,core 7,150,u,intel,irisxe,8,ddr4,512,ssd
+ASUS,1,310,intel,i3,305,unknown,intel,uhd,4,ddr4,256,ssd
+ASUS,1,320,amd,ryzen 3,7320,u,amd,610m,4,ddr5,256,ssd
+Lenovo,1,3550,intel,i9,14900,hx,nvidia,rtx4090,32,ddr5,1000,ssd
+Lenovo,1,1725,intel,ultra 7,255,ultra,nvidia,rtx5070,16,ddr5,1000,ssd
+Lenovo,1,1610,intel,i7,14650,hx,nvidia,rtx4070,16,ddr5,512,ssd
+Lenovo,1,1350,amd,ryzen 7,7260,unknown,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,1175,amd,ryzen 7,7840,hs,nvidia,rtx4060,16,ddr5,512,ssd
+Lenovo,1,1175,amd,ryzen 7,5800,h,nvidia,rtx3070,16,ddr4,2000,ssd
+Lenovo,1,1225,amd,ryzen 7,7435,hs,nvidia,rtx4070,16,ddr5,512,ssd
+Lenovo,1,975,amd,ryzen 7,250,unknown,nvidia,rtx3050,16,ddr5,512,ssd
+Lenovo,1,895,intel,i7,13650,hx,nvidia,rtx3050,16,ddr5,512,ssd
+Lenovo,1,935,intel,i5,13450,hx,nvidia,rtx5050,16,ddr5,512,ssd
+Lenovo,1,765,amd,ryzen 5,7235,hs,nvidia,rtx4050,12,ddr5,512,ssd
+Lenovo,1,740,intel,i5,12600,hx,nvidia,rtx3050,16,ddr5,512,ssd
+Lenovo,1,710,intel,i5,12450,hx,unknown,unknown,24,ddr5,512,ssd
+Lenovo,1,720,amd,ryzen 5,7235,hs,nvidia,rtx3050,12,ddr5,512,ssd
+Lenovo,1,825,intel,i7,12650,hx,nvidia,rtx4050,16,ddr5,512,ssd
+Lenovo,1,1200,amd,ryzen 7,5800,h,nvidia,rtx3060,16,ddr4,512,ssd
+Lenovo,1,710,intel,ultra 5,125,ultra,intel,unknown,8,ddr5,512,ssd
+Lenovo,1,700,intel,i5,13420,h,intel,140t,8,ddr5,512,ssd
+Lenovo,1,1015,intel,ultra 7,255,ultra,intel,140t,16,ddr5,512,ssd
+Lenovo,1,800,intel,ultra 5,125,ultra,intel,unknown,16,ddr5,512,ssd
+Lenovo,1,840,intel,ultra 5,125,ultra,intel,unknown,8,ddr5,512,ssd
+Lenovo,1,820,intel,i5,1335,u,intel,irisxe,8,ddr4,512,ssd
+Lenovo,1,660,intel,i7,13620,h,intel,uhd,16,ddr4,512,ssd
+Lenovo,1,625,intel,i7,13620,h,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,465,intel,i5,13420,h,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,370,intel,i5,10210,u,intel,uhd,8,ddr4,1000,hdd
+Lenovo,1,390,intel,i3,1315,u,intel,uhd,8,ddr4,256,ssd
+Lenovo,1,365,intel,i3,1315,u,intel,uhd,8,ddr5,256,ssd
+Lenovo,1,430,intel,ryzen 7,3700,u,amd,unknown,8,ddr4,128,hdd
+Lenovo,1,370,intel,i5,10210,u,intel,uhd,4,ddr4,1000,hdd
+Lenovo,1,350,intel,i3,1315,u,intel,uhd,8,ddr5,256,ssd
+Lenovo,1,580,intel,i7,13620,h,intel,uhd,8,ddr4,512,ssd
+ASUS,1,1370,intel,i7,14650,hx,nvidia,rtx5060,16,ddr5,1000,ssd
+Dell,1,475,intel,i3,1305,u,intel,uhd,8,ddr4,512,ssd
+Dell,1,410,intel,i3,1305,u,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,580,intel,i7,13620,h,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,700,intel,i7,13620,h,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,1195,amd,ryzen 7,5800,h,nvidia,rtx3070,16,ddr4,512,ssd
+Dell,0,540,intel,i5,9400,h,nvidia,rtx4000,16,ddr4,512,ssd
+Dell,0,520,intel,xeon,2276,m,nvidia,rtx3000,16,ddr4,512,ssd
+Lenovo,0,430,intel,i7,9850,h,nvidia,p620,16,ddr4,512,ssd
+Dell,0,415,intel,i7,8850,h,amd,wx4150,16,ddr4,512,ssd
+Dell,0,375,intel,i7,6820,hq,nvidia,p3000,16,ddr4,512,ssd
+hp,0,370,amd,ryzen 7,3700,u,amd,unknown,16,unknown,256,ssd
+Dell,0,330,intel,i7,9750,h,intel,uhd,16,ddr4,256,ssd
+hp,0,315,amd,ryzen 5,4650,pro,amd,unknown,16,unknown,256,ssd
+Dell,0,290,intel,i7,6500,u,intel,hd,16,ddr4,256,ssd
+Dell,0,170,intel,i5,6200,u,intel,hd,8,ddr4,256,ssd
+hp,0,250,amd,ryzen 3,4300,u,amd,unknown,8,unknown,256,ssd
+Dell,0,230,intel,i5,6300,hq,amd,5170m,8,ddr4,256,ssd
+Toshiba,0,220,intel,i7,6600,u,intel,hd,12,ddr4,256,ssd
+Dell,0,185,intel,i5,73000,u,intel,hd,8,ddr4,256,ssd
+hp,0,150,intel,celeron,3865,u,intel,hd,8,unknown,256,ssd
+ASUS,1,1470,intel,i7,14650,hx,nvidia,rtx5060,32,ddr5,1000,ssd
+ASUS,1,1445,intel,i7,14650,hx,nvidia,rtx5070,16,ddr5,1000,ssd
+Lenovo,1,1495,intel,i7,13650,hx,nvidia,rtx5070,16,ddr5,1000,ssd
+Lenovo,1,1650,intel,i9,14900,hx,nvidia,rtx5070,16,ddr5,512,ssd
+ACER,1,1950,intel,ultra 9,275,ultra,nvidia,rtx5070,32,ddr5,1000,ssd
+Lenovo,0,175,intel,i3,10110,u,intel,uhd,4,ddr4,256,ssd
+hp,1,325,intel,i3,305,unknown,intel,uhd,8,ddr4,256,ssd
+Lenovo,1,455,intel,i5,13420,h,intel,uhd,8,ddr4,512,ssd
+hp,1,810,intel,i7,13620,h,nvidia,rtx4050,16,ddr4,512,ssd
+Dell,1,355,intel,core 3,100,u,intel,uhd,8,ddr4,512,ssd
+hp,1,345,intel,i3,1215,u,intel,uhd,8,ddr4,512,ssd
+ASUS,1,325,intel,i3,305,unknown,intel,uhd,8,ddr4,256,ssd
+Lenovo,1,440,intel,i5,1335,u,intel,uhd,8,ddr4,256,ssd
+ASUS,1,420,intel,i5,1334,u,intel,uhd,12,ddr4,256,ssd
+ASUS,0,515,intel,i7,1255,u,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,515,intel,ultra 5,225,ultra,intel,uhd,8,ddr5,512,ssd
+ASUS,1,630,intel,i5,13420,h,intel,uhd,16,ddr4,512,ssd
+ASUS,1,960,intel,ultra 7,256,ultra,intel,arcg,16,ddr5,1000,ssd
+Lenovo,1,810,intel,i5,13450,hx,nvidia,rtx5050,16,ddr5,1000,ssd
+Lenovo,1,1870,intel,ultra 9,275,ultra,nvidia,rtx5070,16,ddr5,1000,ssd
+hp,0,125,amd,a6,7050,pro,unknown,unknown,16,ddr4,256,ssd
+hp,0,195,intel,i5,8265,u,intel,hd,12,ddr4,256,ssd
+hp,0,145,intel,i3,6100,u,intel,hd,8,ddr4,256,ssd
+Dell,0,465,intel,i7,10875,h,nvidia,t1000,16,unknown,512,ssd
+Lenovo,1,1280,amd,ryzen 7,260,unknown,nvidia,rtx5060,16,ddr5,512,ssd
+hp,0,940,intel,ultra 5,225,ultra,nvidia,rtx5050,16,ddr5,1000,ssd
+Dell,1,570,intel,i7,1355,u,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,765,intel,ultra 5,225,ultra,intel,uhd,8,ddr5,512,ssd
+ASUS,1,585,intel,i7,13620,h,intel,uhd,16,ddr4,512,ssd
+Lenovo,0,525,intel,i5,13420,h,intel,uhd,8,ddr5,512,ssd
+Lenovo,1,1670,intel,ultra 9,275,ultra,nvidia,rtx5060,32,ddr5,1000,ssd
+hp,1,1100,intel,i7,13620,h,nvidia,rtx5060,16,ddr5,512,ssd
+hp,0,385,intel,i5,9400,h,nvidia,t1000,16,unknown,512,ssd
+hp,1,585,intel,i7,1335,u,intel,uhd,8,ddr4,512,ssd
+ASUS,1,530,intel,i7,1335,u,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,570,intel,i7,13620,h,intel,uhd,16,ddr4,512,ssd
+hp,1,300,amd,athlon silver,7120,u,amd,unknown,8,ddr5,256,ssd
+Lenovo,1,1210,intel,i7,13650,hx,nvidia,rtx5060,16,ddr5,512,ssd
+hp,1,560,intel,core 5,120,u,intel,uhd,8,ddr5,512,ssd
+Lenovo,1,1365,intel,i7,14650,hx,nvidia,rtx5060,16,ddr5,512,ssd
+hp,0,275,amd,ryzen 5,3500,u,unknown,unknown,16,unknown,256,ssd
+APPLE,1,2300,intel,i9,9880,hk,amd,560x,32,ddr4,0,ssd
+APPLE,1,1350,apple,m2,2,unknown,apple,apple10,8,unknown,512,ssd
+APPLE,1,1350,apple,m3,3,unknown,apple,apple10,16,unknown,512,ssd
+APPLE,1,1200,apple,m2,2,unknown,apple,apple10,8,unknown,512,ssd
+APPLE,1,1200,apple,m1,1,pro,apple,apple14,16,unknown,512,ssd
+APPLE,1,950,apple,m1,1,unknown,apple,apple8,8,unknown,512,ssd
+ASUS,1,1490,intel,i7,14650,hx,nvidia,rtx5060,16,ddr5,1000,ssd
+Lenovo,1,1005,intel,i7,13650,hx,nvidia,rtx4050,16,ddr5,512,ssd
+hp,1,660,intel,i5,13420,h,nvidia,rtx3050,8,ddr4,512,ssd
+ASUS,0,3235,intel,ultra 9,275,ultra,nvidia,rtx5080,32,ddr5,2000,ssd
+hp,1,700,amd,ryzen 7,7445,h,nvidia,rtx4050,16,ddr5,512,ssd
+hp,1,465,intel,core 5,120,u,intel,uhd,8,ddr4,512,ssd
+Lenovo,0,805,intel,ultra 7,155,ultra,intel,uhd,8,ddr5,1000,ssd
+hp,1,645,intel,core 7,150,u,intel,uhd,16,ddr5,512,ssd
+hp,1,530,intel,i5,1334,u,nvidia,mx570,8,ddr4,512,ssd
+ASUS,1,485,amd,ryzen 7,7730,u,amd,unknown,8,ddr4,512,ssd
+hp,1,455,intel,i5,1334,u,intel,uhd,8,ddr4,512,ssd
+Lenovo,1,265,intel,celeron,4500,unknown,intel,uhd,8,ddr4,256,ssd
+Lenovo,0,200,amd,a8,6410,unknown,amd,r5,8,unknown,256,ssd
+Lenovo,0,155,amd,a1,5750,m,amd,8650g,8,unknown,256,ssd
+hp,1,1460,amd,ryzen 9,8940,hx,nvidia,rtx5060,32,ddr5,1000,ssd
+Lenovo,1,1050,intel,i7,14700,hx,nvidia,rtx5050,24,ddr5,512,ssd
+hp,1,780,intel,i5,13420,h,nvidia,rtx4050,16,ddr4,512,ssd
+Dell,0,420,intel,i7,10850,h,nvidia,mx250,16,ddr4,512,ssd
+Dell,1,475,intel,i5,1335,u,intel,uhd,8,ddr4,512,ssd
+hp,1,635,intel,i7,1355,u,nvidia,mx570,8,ddr4,512,ssd
+hp,0,145,intel,i5,2450,m,amd,7400m,8,unknown,256,ssd
+Dell,0,365,intel,i7,6820,hq,nvidia,m2200,16,ddr4,512,ssd
+hp,0,345,intel,i5,1035,g1,nvidia,mx130,16,ddr4,512,ssd
+hp,0,320,intel,i5,10210,u,nvidia,mx130,8,ddr4,256,ssd
+Lenovo,1,890,intel,i7,13650,hx,nvidia,rtx3050,12,ddr5,512,ssd
+Lenovo,1,500,intel,i5,13420,h,intel,uhd,16,ddr4,512,ssd
+Lenovo,1,405,amd,ryzen 5,7520,u,amd,unknown,8,ddr4,256,ssd
+Lenovo,0,350,intel,i7,6820,hq,nvidia,m2000,16,ddr4,256,ssd
+Lenovo,0,55,intel,atom,475,unknown,intel,hd,2,ddr4,0,unknown
+Dell,1,385,intel,core 3,100,u,intel,uhd,8,unknown,512,ssd
+ASUS,1,375,intel,i3,305,unknown,intel,uhd,8,unknown,256,ssd
+ASUS,1,540,intel,i7,1355,u,intel,uhd,8,unknown,512,ssd
+ASUS,1,575,intel,core 5,210,h,intel,unknown,8,unknown,512,ssd
+ASUS,1,810,intel,core 7,150,u,intel,irisxe,16,ddr4,512,ssd
+Dell,0,275,intel,i7,0,unknown,intel,unknown,8,unknown,256,ssd
+Dell,0,350,intel,i7,0,unknown,intel,unknown,16,unknown,512,ssd
+Dell,0,525,intel,i7,0,unknown,nvidia,t1000,16,unknown,512,ssd
+ASUS,0,600,intel,i7,9750,h,nvidia,rtx2060,16,unknown,512,ssd
+ASUS,1,1270,intel,core 7,240,h,nvidia,rtx5060,16,ddr5,1000,ssd
+ASUS,1,1200,intel,core 7,240,h,nvidia,rtx5050,16,ddr5,1000,ssd
+ASUS,1,675,intel,i7,1355,u,intel,irisxe,16,ddr4,512,ssd
+ASUS,1,490,intel,ryzen 5,7520,u,amd,unknown,16,ddr5,512,ssd
+ASUS,1,500,intel,core 5,120,u,intel,uhd,8,unknown,512,ssd
+ASUS,1,660,intel,core 7,150,u,intel,uhd,16,ddr4,512,ssd
+ASUS,1,575,intel,core 7,150,u,intel,uhd,8,unknown,512,ssd
+ASUS,0,450,intel,i5,120,u,intel,unknown,16,unknown,512,ssd
+ASUS,1,1475,intel,i7,0,unknown,nvidia,rtx5070,16,ddr5,512,ssd
+Dell,0,325,intel,i7,7820,hq,nvidia,m620,8,unknown,256,ssd
+Dell,0,350,intel,i7,8750,h,nvidia,p600,8,unknown,256,ssd
+Lenovo,0,425,intel,i7,0,unknown,nvidia,mx330,12,unknown,512,ssd
+Lenovo,0,200,intel,i5,0,unknown,intel,unknown,8,unknown,256,ssd
+hp,0,450,intel,i7,0,unknown,nvidia,t1000,16,unknown,512,hdd
+Toshiba,0,300,intel,i7,1185,g7,intel,unknown,8,unknown,256,ssd
+Lenovo,1,1850,intel,ultra 9,275,ultra,nvidia,rtx5070,16,unknown,1000,ssd
+Lenovo,0,150,intel,i7,4600,u,nvidia,t720,8,unknown,512,hdd
+ACER,1,1660,intel,ultra 9,275,ultra,nvidia,rtx5060,16,ddr4,1000,ssd
+ACER,1,1165,intel,i9,0,unknown,nvidia,rtx5060,16,ddr4,512,ssd
+Dell,0,400,intel,i7,0,unknown,nvidia,p1000,16,ddr4,512,ssd
+Dell,0,375,intel,i7,0,unknown,nvidia,p1000,16,unknown,512,ssd
+hp,1,900,intel,i7,0,unknown,nvidia,rtx4050,16,ddr4,512,ssd
+ASUS,1,1580,intel,i7,0,unknown,nvidia,rtx5070,16,ddr5,1000,ssd
+ASUS,1,580,intel,core 5,120,u,intel,irisxe,16,ddr4,512,ssd
+ASUS,1,1265,intel,i7,0,unknown,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,960,intel,i7,0,unknown,nvidia,rtx4050,16,ddr5,512,ssd
+Lenovo,0,450,intel,i7,0,unknown,nvidia,t2000,16,unknown,1000,ssd
+Dell,0,200,intel,i5,0,unknown,intel,uhd,8,unknown,256,ssd
+hp,0,300,intel,xeon,1545,m,nvidia,m1000,16,unknown,512,ssd
+Lenovo,0,370,intel,i5,1135,g7,intel,unknown,16,unknown,512,ssd
+hp,0,1175,intel,i7,13620,h,nvidia,rtx5060,12,unknown,512,ssd
+hp,0,365,intel,i7,0,unknown,nvidia,p2000,16,unknown,256,ssd
+ASUS,1,1500,intel,i7,0,unknown,nvidia,rtx5060,16,ddr5,1000,ssd
+hp,0,300,intel,i5,0,unknown,intel,unknown,8,unknown,256,ssd
+ACER,1,1100,intel,i9,0,unknown,nvidia,rtx5050,16,ddr4,512,ssd
+Lenovo,1,1175,intel,i7,0,unknown,nvidia,rtx5050,24,unknown,512,ssd
+ASUS,1,1470,intel,i7,0,unknown,nvidia,rtx5060,32,unknown,1000,ssd
+hp,0,450,intel,i7,0,unknown,nvidia,p520,16,unknown,256,ssd
+hp,0,50,intel,i5,520,m,intel,unknown,8,unknown,512,hdd
+hp,1,1610,intel,ultra 9,285,ultra,nvidia,rtx5070,16,ddr5,1000,ssd
+Dell,0,400,intel,i7,0,unknown,nvidia,p620,16,unknown,512,ssd
+APPLE,0,175,intel,i5,4260,unknown,intel,unknown,4,unknown,128,ssd
+Dell,1,400,intel,i3,0,unknown,intel,hd,8,unknown,512,ssd
+ASUS,1,1235,intel,ryzen 7,260,unknown,nvidia,rtx5060,16,ddr5,512,ssd
+Lenovo,1,880,intel,i7,0,unknown,nvidia,rtx3050,16,ddr5,512,ssd
+hp,1,665,intel,i5,0,unknown,nvidia,rtx3050,8,unknown,512,ssd
+ASUS,1,1185,intel,ryzen 7,260,unknown,nvidia,rtx5050,16,unknown,512,ssd
+Dell,0,500,intel,i7,3561,unknown,nvidia,t600,16,unknown,512,ssd
+Dell,0,360,intel,i7,10850,h,intel,unknown,16,unknown,512,ssd
+Dell,0,425,intel,i5,1145,g7,intel,unknown,16,ddr4,256,ssd
+ASUS,1,415,intel,i3,0,unknown,intel,uhd,8,unknown,512,ssd
+Dell,0,270,intel,i7,6600,u,intel,unknown,16,unknown,500,ssd
+Lenovo,1,675,intel,i5,12450,hx,nvidia,rtx3050,16,ddr4,512,ssd
+Dell,0,150,intel,i7,0,unknown,nvidia,m2,32,unknown,500,unknown
+Microsoft,0,200,intel,i7,0,unknown,unknown,unknown,8,unknown,0,unknown
+Lenovo,0,225,intel,i5,0,unknown,intel,uhd,8,unknown,256,unknown
+Lenovo,1,840,intel,i7,12650,hx,nvidia,rtx4050,16,ddr5,512,ssd
+Dell,1,470,intel,i5,1334,u,unknown,unknown,8,ddr4,512,ssd
+hp,0,560,intel,i5,1334,u,nvidia,mx570,0,unknown,0,unknown
+Lenovo,0,480,intel,i5,13420,h,unknown,unknown,0,unknown,0,unknown
+hp,0,775,amd,ryzen 5,0,unknown,nvidia,rtx4050,0,unknown,0,unknown

@@ -1,0 +1,23 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+TODOs.py
+# Node.js
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Not ready files
+syrianTechnology.js
+
+# Temporary  files
+depp.txt
+pipeline structure.txt
+folder_structure.txt
+
+#IDE
+.vscode
