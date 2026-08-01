@@ -214,7 +214,7 @@ def add_hardware_scores(df):
     df = df.copy()
 
     df["cpu_score"] = df.apply(cpu_score, axis=1)
-    df["gpu_score"] = df["gpu"].apply(gpu_score)
+    df["gpu_score"] = df["gpu_model"].apply(gpu_score)
     df["ram_score"] = df.apply(ram_score, axis=1)
     df["storage_score"] = df.apply(storage_score, axis=1)
 
